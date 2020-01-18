@@ -1,7 +1,7 @@
 package cardgame;
 
 /**
- *Generates a deck of cards using an array
+ *Generates a deck of cards using arrays
  * 
  * @author Jordan Lee
  */
